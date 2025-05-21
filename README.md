@@ -30,15 +30,6 @@ Permite a los usuarios registrarse, iniciar sesión, buscar recetas por origen o
 
 ---
 
-## 🚀 Capturas de pantalla
-
-<!-- Sustituye las rutas por las de tus imágenes reales -->
-| Pantalla Principal | Detalles de Receta | Publicar Receta |
-|--------------------|--------------------|-----------------|
-| ![](./img/home.png) | ![](./img/detalles.png) | ![](./img/publicar.png) |
-
----
-
 ## 🧠 Aprendizajes y objetivos
 
 GoodFood nació como un proyecto académico con el objetivo de aplicar todos los conocimientos adquiridos en desarrollo Android, manejo de Firebase y consumo de APIs externas. Supone una solución real para compartir recetas y consultar valores nutricionales de forma sencilla y visual.
