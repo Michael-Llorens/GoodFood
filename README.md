@@ -1,9 +1,3 @@
-
----
-
-### README para **GoodFood** traducido al inglés
-
-```markdown
 # 🍲 GoodFood
 
 Android application for sharing and discovering cooking recipes collaboratively.  
