@@ -39,7 +39,7 @@ GoodFood nació como un proyecto académico con el objetivo de aplicar todos los
 ## 👨‍💻 Autor
 
 **Michael Llorens Barberá**  
-Desarrollador Full Stack | Kotlin, Java, Firebase, Spring Boot, React  
+Desarrollo full-stack | JS, ​​Kotlin, Java, Python, PHP, hibernate, Spring Boot, SQL y APIs. 
 📧 [Ver LinkedIn](https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/)  
 🌐 [Ver mi portafolio](https://github.com/Michael-Llorens)
 
