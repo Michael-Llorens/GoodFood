@@ -32,7 +32,7 @@ It allows users to register, log in, search recipes by origin or name, publish t
 
 ## 🧠 Learning Outcomes and Goals
 
-GoodFood was created as an academic project to apply knowledge in Android development, Firebase integration, and external API consumption. It provides a practical solution for sharing recipes and accessing nutritional data in a simple and visual way.
+GoodFood was created as a personal project to improve my programming skills and learn a new language. It helped me deepen my knowledge in Android development, Firebase integration, and working with external APIs. The app offers a practical solution for sharing recipes and accessing nutritional data in a simple and visual way
 
 ---
 
