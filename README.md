@@ -3,7 +3,7 @@
 Aplicación Android para compartir y descubrir recetas de cocina de forma colaborativa.  
 Permite a los usuarios registrarse, iniciar sesión, buscar recetas por origen o nombre, publicar sus propias recetas, y consultar la información nutricional de los ingredientes mediante la API de Open Food Facts.
 
-![GoodFood Screenshot](./img/goodfood-preview.png) <!-- Puedes cambiar esta imagen por una captura real -->
+![GoodFood Screenshot](./img/goodfood.png) <!-- Puedes cambiar esta imagen por una captura real -->
 
 ---
 
@@ -35,7 +35,7 @@ Permite a los usuarios registrarse, iniciar sesión, buscar recetas por origen o
 <!-- Sustituye las rutas por las de tus imágenes reales -->
 | Pantalla Principal | Detalles de Receta | Publicar Receta |
 |--------------------|--------------------|-----------------|
-| ![](./img/home.png) | ![](./img/detail.png) | ![](./img/create.png) |
+| ![](./img/home.png) | ![](./img/detalles.png) | ![](./img/publicar.png) |
 
 ---
 
